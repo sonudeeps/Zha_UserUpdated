@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Dashboard</item>
+        <item>Leader Bio</item>
+        <item>Photos</item>
+        <item>Videos</item>
+        <item>Wall</item>
+        <item>Schedules</item>
+        <item>Events</item>
+        <item />
+        <item>About Us</item>
+        <item>Log Out</item>
+    </string-array>
+    <string-array name="ld_TamilTitles">
+        <item>Dashboard</item>
+        <item>தலைவரின் வாழ்க்கை குறிப்பு</item>
+        <item>நிழற்படம்</item>
+        <item>காணொளி</item>
+        <item>சுவர்</item>
+        <item>அட்டவணை</item>
+        <item>நிகழ்வுகள்</item>
+        <item />
+        <item>எம்மை பற்றி</item>
+        <item>வெளியேறு</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_dashboard_black_24dp</item>
+        <item>@drawable/ic_perm_identity_black_24dp</item>
+        <item>@drawable/ic_insert_photo_black_24dp</item>
+        <item>@drawable/ic_video_library_black_24dp</item>
+        <item>@drawable/ic_view_day_black_24dp</item>
+        <item>@drawable/ic_schedule_black_24dp</item>
+        <item>@drawable/ic_event_black_24dp</item>
+        <item>0</item>
+        <item>@drawable/ic_mail_black_24dp</item>
+        <item>@drawable/ic_power_settings_new_black_24dp</item>
+    </array>
+
+</resources>

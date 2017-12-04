@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_login"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingEnd="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingStart="20dp"
+        android:paddingTop="120dp">
+
+
+        <EditText
+            android:id="@+id/input_mail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/edittext_bg"
+            android:elevation="4dp"
+            android:hint="@string/hint_mail"
+            android:singleLine="true"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/input_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_bg"
+            android:elevation="4dp"
+            android:hint="@string/hint_password"
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/button_login"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android:elevation="4dp"
+            android:text="@string/signin"
+            android:textColor="#fff"
+            android:theme="@style/MyButton" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/no_account"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tamil"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/lang_switch"
+                    android:layout_alignBottom="@+id/lang_switch"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_toEndOf="@+id/lang_switch"
+                    android:layout_toRightOf="@+id/lang_switch"
+                    android:layout_weight="1"
+                    android:text="தமிழ்"
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/english"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/lang_switch"
+                    android:layout_alignBottom="@+id/lang_switch"
+                    android:layout_marginEnd="14dp"
+                    android:layout_marginRight="14dp"
+                    android:layout_toLeftOf="@+id/lang_switch"
+                    android:layout_toStartOf="@+id/lang_switch"
+                    android:text="English"
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
+
+                <Switch
+                    android:id="@+id/lang_switch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_weight="1" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

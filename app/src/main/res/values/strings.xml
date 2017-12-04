@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">வேல்முருகன் </string>
+    <string name="welcometo">Welcome</string>
+    <string name="hint_login">Login</string>
+    <string name="getstarted">Fill out the form to get started</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_dob">Date Of Birth</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_mail">Email Address</string>
+    <string name="hint_location">District</string>
+    <string name="hint_post">Constituency</string>
+    <string name="hint_profession">Profession</string>
+    <string name="signup">Sign Up</string>
+    <string name="already_account">Already have an account? <b>Login</b> here</string>
+    <string name="hint_mailphone">Email or Phone Number</string>
+    <string name="hint_password">Password</string>
+    <string name="signin">Login</string>
+    <string name="no_account">Don\'t have an account? <b>Sign Up</b> here</string>
+    <string name="getin">Please enter the credentials</string>
+    <string name="err_msg_mail">Please enter a valid Email Address</string>
+    <string name="err_msg_password">Minimum password length is 8 characters</string>
+    <string name="err_msg_name">Minimum length is 5 characters</string>
+    <string name="err_msg_dob">Please enter Date Of Birth</string>
+    <string name="err_msg_phone">Please enter a 10 digit number</string>
+    <string name="err_msg_location">Please enter a valid Location</string>
+    <string name="err_msg_profession">Please enter a valid profession</string>
+    <string name="err_msg_post">Please select a valid post</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="tamil_email">மின்னஞ்சல்</string>
+    <string name="tamil_password">கடவுச்சொல்</string>
+    <string name="tamil_login">உள்நுழை</string>
+    <string name="tamil_signup">கணக்கை துவங்க</string>
+    <string name="tamil_name">பெயர்</string>
+    <string name="tamil_dob">பிறந்த தேதி</string>
+    <string name="tamil_district">மாவட்டம்</string>
+    <string name="tamil_constituancy">சட்டமன்ற தொகுதி</string>
+    <string name="tamil_phone">அலைபேசி</string>
+    <string-array name="MP_type">
+        <item>Select</item>
+        <item>THIRUVALLUR</item>
+        <item>CHENNAI</item>
+        <item>KANCHEEPURAM</item>
+        <item>VELLORE</item>
+        <item>KRISHNAGIRI</item>
+        <item>DHARMAPURI</item>
+        <item>TIRUVANNAMALAI</item>
+        <item>VILUPPURAM</item>
+        <item>SALEM</item>
+        <item>NAMAKKAL</item>
+        <item>ERODE</item>
+        <item>THE NILGIRIS</item>
+        <item>COIMBATORE</item>
+        <item>DINDIGUL</item>
+        <item>KARUR</item>
+        <item>TIRUCHIRAPPALLI</item>
+        <item>PERAMBALUR</item>
+        <item>CUDDALORE</item>
+        <item>NAGAPATTINAM</item>
+        <item>THIRUVARUR</item>
+        <item>THANJAVUR</item>
+        <item>PUDUKKOTTAI</item>
+        <item>SIVAGANGA</item>
+        <item>MADURAI</item>
+        <item>THENI</item>
+        <item>VIRUDHUNAGAR</item>
+        <item>RAMANATHAPURAM</item>
+        <item>THOOTHUKKUDI</item>
+        <item>TIRUNELVELI</item>
+        <item>KANNIYAKUMARI</item>
+    </string-array>
+    <string-array name="MLA_type">
+        <item>Select</item>
+        <item>திருவள்ளூர்</item>
+        <item>சென்னை</item>
+        <item>காஞ்சிபுரம்</item>
+        <item>வேலூர்</item>
+        <item>கிருஷ்ணகிரி</item>
+        <item>தர்மபுரி</item>
+        <item>திருவண்ணாமலை</item>
+        <item>விழுப்புரம்</item>
+        <item>சேலம்</item>
+        <item>நாமக்கல்</item>
+        <item>ஈரோடு</item>
+        <item>நிழலிஸ்</item>
+        <item>கோவை</item>
+        <item>திண்டுக்கல்</item>
+        <item>கரூர்</item>
+        <item>திருச்சிராப்பள்ளி</item>
+        <item>பெரம்பலூர்</item>
+        <item>கடலூர்</item>
+        <item>நாகப்பட்டினம்</item>
+        <item>திருவாரூர்</item>
+        <item>தஞ்சாவூர்</item>
+        <item>புதுக்கோட்டை</item>
+        <item>சிவகங்கை</item>
+        <item>மதுரை</item>
+        <item>தேனி</item>
+        <item>விருதுநகர்</item>
+        <item>ராமநாதபுரம்</item>
+        <item>தூத்துக்குடி</item>
+        <item>திருநெல்வேலி</item>
+        <item>கன்னியாகுமரி</item>
+    </string-array>
+    <string name="copy_right" translatable="false" >Copyrights © %1$d</string>
+
+</resources>

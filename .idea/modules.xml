@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\msuba\Desktop\Politician\PoliticianApp-master\Politician.iml" filepath="C:\Users\msuba\Desktop\Politician\PoliticianApp-master\Politician.iml" />
+      <module fileurl="file://F:\Zha1-master\PoliticianApp-master.iml" filepath="F:\Zha1-master\PoliticianApp-master.iml" />
+      <module fileurl="file://D:\Andriod Projects\Zha_User-master\Zha1-master.iml" filepath="D:\Andriod Projects\Zha_User-master\Zha1-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zha_User-master.iml" filepath="$PROJECT_DIR$/Zha_User-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\msuba\Desktop\Politician\PoliticianApp-master\app\app.iml" filepath="C:\Users\msuba\Desktop\Politician\PoliticianApp-master\app\app.iml" />
+    </modules>
+  </component>
+</project>

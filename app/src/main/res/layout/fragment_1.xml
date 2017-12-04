@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/English_Button"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:text="English" />
+
+    <Button
+        android:id="@+id/Tamil_Button"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:text="Tamil" />
+
+</LinearLayout>
+
+    <ImageView
+        android:id="@+id/Image_Pol"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="5dp"
+        app:srcCompat="@drawable/ic_logo" />
+
+    <ScrollView
+        android:id="@+id/SCROLLER_ID"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:scrollbars="vertical">
+
+        <TextView
+            android:id="@+id/Profile_Textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="Our leader Carl Marcus transforms the path of travellingby ecstatically statingthat ”Defining and Judging the world about the problems are superfluous;Inchange to that a complete diverse transition is the need of the hour”. Mr.Aengles, friend of Marcus says “The basic needs of a man are to have food, water and place to stay. These are the elements which enhance the politics, science, spirituality and art of human and survival. This transparent truth has been made as hindrance to understand by some antagonists. The one who removed the obstacles in understanding is Carl Marcus. ”India started developing since 70 years, but still it hasn’t attained the state  to serve all the people of the nation with these basic needs.  So here I come to change the history” says Mr.T.Velmurugan ,Founder and leader (TamizhagaVazhvurimaikatchi) .He has been elected as the M.L.A of PMK in the years of 2001 and 2006 in Pandrooti and attended the Legislative Assembly as the representative. He did an excelling service during his period and bagged the award “Bharat Jyothi”(Young Legislative assembly member) from the hands of Former Governor Mr.BhishmaNarain Singh.He has been elected as the Leader of Pledge Committee during his young age and performed well.He travelled all over TamilNadu to explore the projects and deeds of the government and he analysed and suggested the good and bad briefly to the government. He served well as an M.L.A but performing many challenging works. But he has been dismissed by PMK  . On  14th January2012. on the day of TamilPongal festival he started the TVK party. He stated that he will serve for the self-esteem, linguistic rights, ethnicity and livelihood rights of Tamil people. He has also raised his voice in the assembly to make the sand quarrying as state owned property, rain water harvesting and various other special projects. He has been the main reason for satisfying those projects.Morevover, he also continued to talk in the Legislative Assembly for arts, culture, culture, labour, farmers welfare, school, college, students and welfare for a decade. One of the remarkable acts that he has done as a legislator is that many of the ten year prisoners have been relieved by the release to start their new living.For this purpose, he requested  the Government to release all the prisoners who had been imprisoned for decades, following the birth of Anna (September 15).If the prisons are punished for the wrongdoer, that punishment is to reform him; That is the 10 years imprisonment, the most promising, being said this claimed for the release of prisoners Mr.T. Velmurugan made this request to the DMK government in 2007 and released only seven years of imprisoned prisoners. The same request was presented to the AIADMK on 13-09-2015 as Chairman of the Tamil Livestock Party.In addition,On the birthday of Anna he requested to release the Eelam Tamils in Tiruchi and Cheyyar special camps which  included 18 people. Tamilnadu Government has prisoned the Eelam Tamils as refugees in Tamil Nadu in special camps ,who actually escaped from Sinhala chauvinist genocide in Sri Lanka as a refugee. The party did  massivemovement in Trichy insisted on dragging and pulling out of these special camps imprisoning.The leader T. Velmurugan presided as the head over the struggle of thousands of people.This stood as a model for the other Tamil political parties and Tamil movements to close these camps. The protests attracted the attention all over the world.One of the major change made by the Central Government to exploit Tamil Nadu is the highway customs duty .This was condemned by the Party.  All over Tamil Nadu over 60 tollgates has been set up to monitor and get the duty amounts.The modern fraud, which is a hunt for the customs duty, has been lodged by the our Party for urging the Central Government to issue a White Paper on Customs Charges.The &quot;non-disobedience&quot; movement, which refuses to pay in customs offices, was also conducted. In this, Livelihood volunteers, including women and mothers, were arrested and imprisoned.It is compulsary to increase the bills in April and September every year in toll ticket sales.The Party has conducted two major sabotage struggles to remove the customs booths across Tamil Nadu, has announced that the struggle will continue until the removal of the customs duty. Mr. TVelmurugan is very much concerned about NeyvelliLignite Corporation (N, L, C) and its workers .NLC has been  provided with  habitat and farmland of theCuddalore district people  of about 40 villages surrounding it.The people will be employed at NLC.The NLC administration, which has voted to provide basic livelihood facilities for roads, transport facilities, electricity, water and education facilities, has not yet been fulfilled. In the NLC mines, about 13 thousand people who have been enlisted as contract labourers, have not yet been upheld  as permanent workers in the event of Supreme Court’s order. They have been a contract wage for 25 years.Mr.T Velmurugan is fighting for the last 20 years by denouncing this unfair practice of NLC. He has been a volunteer of the NLC's small-scale problem.As far as the NLC is concerned, it has become dangerous due to the other state dominance in the industry. Mr.TVelmurugan is acting with an intention to end this.There are seven Tamils - Murugan, Shanthan, Perarvallan, Ravichandran, Robert Paes, Jayakumar and Nalini - who are in jail for 27 years in the murder of former Prime Minister Rajiv Gandhi.Mr.TVelmurugan is the one who tried to release them.Finally, the former Chief Minister Jayalalithaa announced release of them. But earlier, today's federal governments stifle their imprisonment.Mr.TVelmurugan is struggling with the law and moral breakthrough for this cause.The Tamil Nadu fishermen continue to be attacked by the Sinhala navy. So far 600 people have been killed. 1,000 people were injured. The boats and nets have been destroyed and the loss of several hundred crores - for which the Indian state is equally responsible. Because the Modi government has decided to hand over fisheries to corporates.In this situation, Mr.TVelmurugan comes together to protect the tradition of the traditional Tamil Nadu fisheries.In 2009 he stands with the Tamil Tamils who are fighting justice for Eelam genocide.The Andhra Police shot and killed the 20 innocent Tamils who went to Andhra in search of a wage labourer.While the Tamil Nadu government and the federal government did not ask for this,PartyleaderMr.TVelmurugan forwarded a struggle for justice with human rights and Tamil rights organizations.  The CBI should investigate that this is genocide. Mr. T Velmurugan struggles to ensure that Tamil Nadu does not get abandoned with  the rights of water in the river waters like Cauvery, MullaiPeriyar, Palar, Bavanaiyar and Neyyar with neighboring states.As the Koodankulam nuclear power problem continues, the Modi government has begun to take hydrocarbon, methane and shells in the Neduvasal and Karamatangala. Velmurugan joined the people in the series of struggles in the area.The struggle to declare Cauvery delta districts as a &quot;protected area of agriculture&quot; has been on the one hand, while Modi announced  thousands of acres petrol zone covering 45 villages in Cuddalore, Nagapattinam and Ariyalur districts. Velmurugan has vowed that we will stop this.Recently, Neet, GST, Government of Tamil Nadu and the state of the central government work in Tamil Nadu - the issue of other state workers,occupation and the problems that arose are all opposed by Mr.TVelmurugan. Party leader writes to transform and change the history of Tamil Nadu with his struggle. "
+            android:textAlignment="viewStart" />
+
+    </ScrollView>
+
+</LinearLayout>

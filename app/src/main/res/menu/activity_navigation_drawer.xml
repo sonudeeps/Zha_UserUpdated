@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="About Leader">
+    <menu>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/f0"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Home" />
+        <item
+            android:id="@+id/f1"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Leader Bio" />
+        <item
+            android:id="@+id/f2"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Photos" />
+        <item
+            android:id="@+id/f3"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Videos" />
+        <item
+            android:id="@+id/f4"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Schedule" />
+        <item
+            android:id="@+id/f5"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Wall" />
+        <item
+            android:id="@+id/f6"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Facebook Page" />
+        <item
+            android:id="@+id/f7"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Twitter Page" />
+        <item
+            android:id="@+id/f8"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Events" />
+    </group>
+    </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/f9"
+                android:icon="@mipmap/ic_launcher"
+                android:title="Suggestions" />
+            <item
+                android:id="@+id/f10"
+                android:icon="@mipmap/ic_launcher"
+                android:title="Contact Admin" />
+        </menu>
+    </item>
+
+</menu>
